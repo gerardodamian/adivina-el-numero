@@ -1,0 +1,48 @@
+body {
+    text-align: center;
+    background-image: url(./img/juegos-de-azar.jpg);
+    background-size: cover;
+  }
+  
+  h1 {
+    color: #f80808;
+    font-size: 50px;
+    font-family: Arial, sans-serif;
+    margin-top: 100px;
+  }
+  
+  input {
+    padding: 10px;
+    font-size: 25px;
+    background-color: #87e284b7;
+    font-weight: 800;
+    border-radius: 10px;
+    text-align: center;
+  }
+  
+  button {
+    padding: 15px 12px;
+    background-color: #1191db;
+    color: white;
+    border: none;
+    font-size: 25px;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+  
+  #mensaje {
+    color: #41f03b;
+    text-shadow: 2px 2px black;
+    font-family: Arial, sans-serif;
+    font-weight: 600;
+    font-size: 25px;
+    margin-top: 20px;
+  }
+  #sub{
+    color: #dc08f8;
+    font-size: 35px;
+  }
+  h4 {
+    font-size: 25px;
+    color: yellow;
+  }
