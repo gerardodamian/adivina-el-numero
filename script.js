@@ -14,7 +14,7 @@ function chequearResultado(){
     let numeroIngresado = parseInt(numeroEntrada.value);
     if(numeroIngresado < 1 || numeroIngresado > 100 || isNaN(numeroIngresado)){
         mensaje.textContent = 'Por favor, introduce un numero válido entre 1 y 100'
-        mensaje.style.color = "black";
+        mensaje.style.color = "white";
         return
     }
 
